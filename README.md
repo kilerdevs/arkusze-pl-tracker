@@ -1,6 +1,7 @@
 # arkusze-tracker
 
 Tampermonkey userscript for tracking completed exam papers on [arkusze.pl](https://arkusze.pl).
+Vibe-coded with claude lol
 
 ## Features
 
