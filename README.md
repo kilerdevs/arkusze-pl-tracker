@@ -17,9 +17,9 @@ Vibe-coded with claude lol
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
 2. Click the link below to install the script directly:
 
-**[Install arkusze-tracker](https://raw.githubusercontent.com/YOUR_USERNAME/arkusze-tracker/main/arkusze_tracker_universal.user.js)**
+**[Install arkusze-tracker](https://greasyfork.org/en/scripts/567377-arkusze-pl-tracker-uko%C5%84czonych-arkuszy-wszystkie-przedmioty)**
 
-> Replace `YOUR_USERNAME` with your GitHub username after uploading the script.
+
 
 ## Usage
 
